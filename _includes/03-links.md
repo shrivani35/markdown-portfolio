@@ -1,2 +1,2 @@
-web ( www.github.com ) 
-instgram ( https://instagram/user/sri)
+we can search this also [web] (www.github.com) and have social media
+[instgram] ( https://instagram/user/sri)
