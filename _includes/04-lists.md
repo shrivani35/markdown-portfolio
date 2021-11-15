@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+ list of your favorite things.
+ - peacock
+ - parrot
+ - monkey
+ - rabbit
+ - jasmine
+ - carnisya
